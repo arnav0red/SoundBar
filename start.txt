@@ -1,0 +1,5 @@
+status=starting|;
+connected=False|;
+test=0|;
+player=fxn|;song|;channel|;active|;
+playstate=False|;

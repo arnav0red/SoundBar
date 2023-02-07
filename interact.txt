@@ -1,0 +1,5 @@
+status=offline0|;
+connected=False|;
+test=0|;
+player=play|;Mr Scruff - Kalimba Windows 7 Sample Music.mp3|;1|;0|;
+playstate=False|;

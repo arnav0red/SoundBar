@@ -1,0 +1,7 @@
+GeoSize=447|;773|; #height;width
+SetSize=275|;498|; #height;width
+AudioAss=415|;390|; #height;width
+AudioFiles=["Maid with Flaxen Hair - Windows 7 Sample Music.mp3"|;"Mr Scruff - Kalimba Windows 7 Sample Music.mp3"|;"Sleep Away - Windows 7 Sample Music.mp3"|;"SAVED FILE NOT FOUND"|;"SAVED FILE NOT FOUND"|;"SAVED FILE NOT FOUND"|;"SAVED FILE NOT FOUND"|;"SAVED FILE NOT FOUND"|;"SAVED FILE NOT FOUND"|;]|;; #finish
+TextChannel=x|;
+VoiceChannel=x|;
+Token=x|;
