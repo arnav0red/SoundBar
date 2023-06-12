@@ -1,5 +1,5 @@
 # SoundBar
-A discord bot connected with an interface to play local sound files on a discord server
+A discord bot connected with an interface to play local sound files on a discord server. Comes attached with just a music player if you want so.
 
 <img width="580" alt="working screen2" src="https://user-images.githubusercontent.com/124733483/217385073-5dc8c48d-160e-4a0c-8d77-2029f9a8b42a.png">
 
